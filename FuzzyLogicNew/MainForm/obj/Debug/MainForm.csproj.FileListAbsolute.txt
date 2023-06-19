@@ -1,0 +1,51 @@
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.Form1.resources
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\bin\Debug\MainForm.exe
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\bin\Debug\MainForm.pdb
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.exe
+C:\Users\SuperPuperPC\Desktop\Предметы\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.pdb
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\bin\Debug\MainForm.exe.config
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\bin\Debug\MainForm.exe
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\bin\Debug\MainForm.pdb
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.Form1.resources
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.exe
+D:\SuperUSB\Университет\Бакалавриат\4.2\Системы ИИ\FuzzyLogic\MainForm\obj\Debug\MainForm.pdb
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\bin\Debug\MainForm.exe.config
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\bin\Debug\MainForm.exe
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\bin\Debug\MainForm.pdb
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\obj\Debug\MainForm.Form1.resources
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\obj\Debug\MainForm.exe
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogic\MainForm\obj\Debug\MainForm.pdb
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.Form1.resources
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.exe
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.pdb
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\bin\Debug\MainForm.exe.config
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\bin\Debug\MainForm.exe
+D:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\bin\Debug\MainForm.pdb
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\bin\Debug\MainForm.exe.config
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\bin\Debug\MainForm.exe
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\bin\Debug\MainForm.pdb
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.csproj.SuggestedBindingRedirects.cache
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.Form1.resources
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.exe
+C:\SuperData\Университет\Магистратура\1.2\Теория мягких вычислений\FuzzyLogicNew\MainForm\obj\Debug\MainForm.pdb
